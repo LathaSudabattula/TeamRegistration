@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4682b4">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="139dp"
+        android:layout_margin="10dp"
+        android:text="Hackathon Registration"
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="LOGIN"
+        android:textSize="40dp"
+        android:layout_margin="40dp"
+        android:background="#afeeee"
+        android:textColor="@color/colorPrimary"
+        android:fontFamily="cursive"/>
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="40dp"
+        android:textSize="40dp"
+        android:background="#afeeee"
+        android:fontFamily="cursive"
+        android:textColor="@color/colorPrimary"
+        android:text="SIGN UP" />
+</LinearLayout>

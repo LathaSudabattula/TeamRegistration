@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WELCOME TO ADMIN HOME PAGE"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:background="#4682b4"/>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Teams Registered : "
+        android:layout_marginTop="10dp"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        android:background="#708090"/>
+
+    <TextView
+        android:id="@+id/list1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#fff0f5"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text="ABCD"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:clickable="true" />
+</LinearLayout>

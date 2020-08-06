@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850723181406",
+    "firebase_url": "https://teamregistration-c7ea6.firebaseio.com",
+    "project_id": "teamregistration-c7ea6",
+    "storage_bucket": "teamregistration-c7ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850723181406:android:15e5eb4baf3665bf",
+        "android_client_info": {
+          "package_name": "com.svecw.projectregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850723181406-855pifq61qvgt2jjp1v9fv427p7505cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svecw.projectregistration",
+            "certificate_hash": "45a14ec99c7e3087a5cd60c2f9ad452b817c98d6"
+          }
+        },
+        {
+          "client_id": "850723181406-7rkr24g9vrui1lhutdkqfbqm6dl4gjti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuvf6TDhBlv5gubdCgR_b0LEQD0-230I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850723181406-7rkr24g9vrui1lhutdkqfbqm6dl4gjti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
