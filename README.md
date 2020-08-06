@@ -1,0 +1,2 @@
+# TeamRegistration
+TeamRegistration is an android application. This app provides the registration of a team for various events like hackathons, presentations, group events  etc. A team can who wants to participate in the event can register by providing the details of the team name, team members details name, email id, phone number etc. The event organizer will be the admin of the system. Admin can login and see all the teams who are registered for the event. Developed this project using Android studio.
